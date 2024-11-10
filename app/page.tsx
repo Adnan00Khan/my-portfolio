@@ -25,9 +25,9 @@ export default function Home() {
       <div className="main" id="about">
         <br />
         <h1 className="about-h1">adnan khan</h1>
-        <p className="about-p">Email: "adyyy931@gmail.com" Linkedin: <a className="about-a" href="https://www.linkedin.com/in/adnan-khan-14b0aa25b/">ADNAN KHAN</a></p>
+        <p className="about-p">Email: adyyy931@gmail.com Linkedin: <a className="about-a" href="https://www.linkedin.com/in/adnan-khan-14b0aa25b/">ADNAN KHAN</a></p>
         <br />
-        <p className="about-p">Hi, AADNAN KHAN, I specialize in front-end and back-end development, bringing ideas to life through clean, efficient, and user-friendly code. Whether it's designing visually appealing interfaces or ensuring seamless functionality, I thrive on creating solutions that meet both user and business needs. </p>
+        <p className="about-p">Hi, AADNAN KHAN, I specialize in front-end and back-end development, bringing ideas to life through clean, efficient, and user-friendly code. Whether its designing visually appealing interfaces or ensuring seamless functionality, I thrive on creating solutions that meet both user and business needs. </p>
         <button className="about-btn"><a className="a" href="https://hackathon-1-2-one.vercel.app/">CV</a></button>
       </div>
 <hr />
