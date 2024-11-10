@@ -89,3 +89,50 @@
   border-radius: 25px;
   background-color: black;
 }
+@media (max-width: 480px){
+
+.about-h1{
+  font-size: 50px;
+  margin: 50px 25px 0px; 
+  text-transform: capitalize;
+}
+.about-p{
+  margin: 0px 0px 25px 25px;
+  font-size: 10px;
+}
+.education-ul{
+  margin: 60px 25px;
+  list-style-type:circle;
+}
+.education-li{
+  font-size: 12px;
+  
+}
+.about-btn{
+  margin: 5px 25px;
+  border: 2px solid black;
+  width: 50px;
+  font-size: 12px;
+  border-radius: 25px;
+  background-color: black;
+}
+.nav-btn{
+  margin: 7px;
+  text-transform: capitalize;
+  font-size: 12px;
+  justify-content: center;
+}
+.img{
+  border-radius: 100%;
+ margin: 10px 5px ;
+ width:70px ;
+ height: 70px;
+}
+:hover.a{
+  color: blue;
+}
+:hover.about-a{
+  color: blue;
+}
+
+}
